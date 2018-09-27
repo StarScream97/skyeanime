@@ -1,6 +1,6 @@
 # masteranime-api
 
-> A Vue.js project
+> Online Anime Streaming WebApp
 
 ## Build Setup
 
@@ -18,4 +18,7 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# fire up the api server
+nodemon server
+
+\\\\This server helps cope the CORS issues that occurs from directly requesting the data from the original server.////

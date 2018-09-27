@@ -21,4 +21,4 @@ npm run build --report
 # fire up the api server
 nodemon server
 
-\\\\This server helps cope the CORS issues that occurs from directly requesting the data from the original server.////
+This server helps cope the CORS issues that occurs from directly requesting the data from the original server
